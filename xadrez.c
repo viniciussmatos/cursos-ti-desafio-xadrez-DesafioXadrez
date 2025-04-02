@@ -128,12 +128,6 @@ int main(){
             case 5: printf("Saindo...\n"); return 0;
         }
 
-        /*
-        if (peca == 5) { // encerra o programa se escolher a opção 5. Poderia colocar no case 5 também.
-            printf("Saindo...");
-            return 0;
-        } */
-
     printf("\n");
 
         while (peca < 1 || peca > 5){
